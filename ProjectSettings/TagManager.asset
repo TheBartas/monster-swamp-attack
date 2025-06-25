@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OwnCanvas
+  - Text
+  - Inventory
+  - Enemy
+  - Shotgun
+  - Light
+  - House
+  - Barrier
+  - isGroundTag
+  - Dead
+  - CollectableItemText
+  - Resource
+  - PickedUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - isGround
+  - PostProcessing
+  - MainTarget
+  - PlayerTarget
+  - ObstacleLayers
+  - isWater
+  - HouseCollider
+  - TransparentCollider
+  - Clouds
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
